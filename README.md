@@ -25,3 +25,5 @@
 
 
 <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://hj0216.tistory.com/">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0216)](https://solved.ac/hj0216)
