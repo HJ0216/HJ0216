@@ -15,7 +15,7 @@
 <div align="left">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0216"/>
 <h3 align="center">📚 Tech Stack 📚</h3>
-<p>✨ Platforms & Languages ✨</p>
+<p><strong>✨ Platforms & Languages ✨</strong></p>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" />  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
   <br>
   
-<p>🛠 Tools 🛠</p>
+<p><strong>🛠 Tools 🛠</strong></p>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
