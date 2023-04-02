@@ -1,5 +1,5 @@
 <div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0216&layout=compact&hide=Python&langs_count=8"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0216&layout=compact&langs_count=8"/>
 <h1 align="center">👋 Nice to see ya! 👋</h1>
 🙆‍♀️ Hello, I'm Hyunji Kim <br/>
 🌱 I'm currently learning in BitCamp Computer Academy <br/>
