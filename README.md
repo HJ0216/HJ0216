@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HJ0216)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:6120hj@gmail.com)
 
-<img align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true" />
+<img width="45%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true" />
 
 ### 🔥 Growth oriented Developer 
 
