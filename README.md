@@ -1,43 +1,56 @@
-<div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0216&layout=compact&langs_count=8"/>
-<h1 align="center">👋 Nice to see ya! 👋</h1>
-🙆‍♀️ Hello, I'm Hyunji Kim <br/>
-🌱 I'm currently learning in BitCamp Computer Academy <br/>
-✏️ I'm currently keeping a Study Blog: http://HJ0216.tistory.com <br/>
-<br/>
-<br/>
+## Hyunji
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HJ0216)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:6120hj@gmail.com)
+
+<img align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true" />
+
+### 🔥 Growth oriented Developer 
+
+- 🚀 I’m currently learning Java and Spring.
+- 🌱 [Tech Blog](https://hj0216.tistory.com/).
+- 📫 How to reach me: 6120hj@gamil.com
+- ✨ Team Project: [마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
+
 <br/>
 
-</div>
 
 
-<div align="left">
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0216"/>
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p><strong>✨ Platforms & Languages ✨</strong></p>
-  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Conda-Forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" />  
+### 🛠️ Languages and Tools
+
+<p>
+
+<img width="40%" align="right" alt="boj status" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0216"/>
+  
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
-  <br>
-    
-  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
-  <br>
-  
-<p><strong>🛠 Tools 🛠</strong></p>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-  
-</div>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <br />
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <br />
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+
+</p>
+
+
+
+
+<!--
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
