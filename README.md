@@ -9,7 +9,7 @@
 - 🚀 I’m currently learning Java and Spring.
 - 🌱 [Tech Blog](https://hj0216.tistory.com/).
 - 📫 How to reach me: 6120hj@gamil.com
-- ✨ Team Project: [마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
+- 🤹‍♀️ Team Project: [🚵‍♀️마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [👼한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
 
 <br/>
 
