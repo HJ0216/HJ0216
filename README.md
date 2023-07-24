@@ -6,8 +6,8 @@
 
 ### 🔥 Growth oriented Developer 
 
-- 🚀 I’m currently learning Java and Spring.
-- 🌱 [Tech Blog](https://hj0216.tistory.com/).
+- 🚀 My Plan: [👉 Click Me!](https://square-pendulum-7df.notion.site/01859295a21747fe98f4100d0e00a1ce?pvs=4)
+- 🌱 [Tech Blog](https://hj0216.tistory.com/)
 - 📫 How to reach me: 6120hj@gamil.com
 - 🤹‍♀️ Team Project: [🚵‍♀️마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [👼한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
 
