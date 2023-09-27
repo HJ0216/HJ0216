@@ -1,39 +1,35 @@
 ## Hyunji
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HJ0216)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:6120hj@gmail.com)
 
 <img width="45%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true" />
 
-### 🔥 Growth oriented Developer 
-
-- 🚀 My Plan: [👉 Click Me!](https://square-pendulum-7df.notion.site/01859295a21747fe98f4100d0e00a1ce?pvs=4)
-- 🌱 [Tech Blog](https://hj0216.tistory.com/)
-- 📫 How to reach me: 6120hj@gamil.com
-- 🤹‍♀️ Team Project: [🚵‍♀️마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [👼한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
+### Growth oriented Developer 🔥
+- 📚 [Tech Blog](https://hj0216.tistory.com/)
+- 📧 6120hj@gamil.com
+- 🤹‍♀️ Team Project <br/>
+ [🚵‍♀️마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [👼한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
 
 <br/>
 
 
 
-### 🛠️ Languages and Tools
+### Stacks ✍️
 
 <p>
 
 <img width="40%" align="right" alt="boj status" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0216"/>
   
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <br/>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br />
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br />
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </p>
 
