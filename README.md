@@ -7,29 +7,25 @@
 
 <br/>
 
-## 🤓 Tech Skills :
+## 🤓 Tech Skills
 ### Back-End
 - `Java`
 - `Spring` `Spring boot`
 - `JPA` `MyBatis`
 
 ### Front-End
-- `HTML` `CSS`
-- `JavaScript`
 - `React`
+- `JavaScript`
+- `HTML` `CSS`
 
 ### DBMS
-- `Oracle`
 - `MySql`
+- `Oracle`
 
 ### Tools & Collaborations
-- `IntelliJ IDEA` `Eclipse` `STS` `VS Code`
+- `IntelliJ IDEA` `VS Code` `Eclipse` `STS`
 - `Git` `GitHub`
 - `Slack` `Notion`
-
-<br/>
-
-
 
 
 
