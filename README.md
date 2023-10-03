@@ -1,3 +1,43 @@
+# 🥕 Hyunji
+
+### 🔥 Growth oriented Developer
+Name : 김현지(Kim Hyunji) <br/>
+Email : 6120hj@gmail.com <br/>
+Tech Blog : [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
+Team Project :
+ [🚵‍♀️마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [👼한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
+
+<br/>
+
+## 🤓 Tech Skills :
+### Back-End
+- `Java`
+- `Spring` `Spring boot`
+- `JPA` `MyBatis`
+
+### Front-End
+- `HTML` `CSS`
+- `JavaScript`
+- `React`
+
+### DBMS
+- `Oracle`
+- `MySql`
+
+### Tools & Collaborations
+- `IntelliJ IDEA` `Eclipse` `STS` `VS Code`
+- `Git`, `GitHub`
+- `Slack`, `Notion`
+
+<br/>
+
+
+
+
+
+<!--
+~ 231002
+
 ## Hyunji
 
 <img width="45%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true" />
@@ -35,8 +75,8 @@
 
 
 
+Original
 
-<!--
 ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -49,4 +89,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
 -->
