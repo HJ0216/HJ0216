@@ -26,8 +26,8 @@ Team Project :
 
 ### Tools & Collaborations
 - `IntelliJ IDEA` `Eclipse` `STS` `VS Code`
-- `Git`, `GitHub`
-- `Slack`, `Notion`
+- `Git` `GitHub`
+- `Slack` `Notion`
 
 <br/>
 
