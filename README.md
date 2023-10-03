@@ -1,9 +1,9 @@
 # 🥕 Hyunji
 
 ### 🔥 Growth oriented Developer
-Name : 김현지(Kim Hyunji) <br/>
-Email : 6120hj@gmail.com <br/>
-Tech Blog : [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name : 김현지(Kim Hyunji) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email : 6120hj@gmail.com <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Blog : [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
 Team Project :
  [🚵‍♀️마실가실](https://drive.google.com/file/d/1yE4Iu6oACo75pvtULz1KdgSpoBO4l3ZC/view?usp=sharing), [👼한걸음](https://drive.google.com/file/d/1PVMc8o_FUc5XMZ-5ND9WrPPKa5aAjvWL/view?usp=sharing)
 
