@@ -3,31 +3,31 @@
 <img width="40%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true&theme=swift" />
 
 ### 🔥 Growth oriented Developer
-<b>Name :</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 김현지(Kim Hyunji) <br/>
-<b>Email :</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6120hj@gmail.com <br/>
-<b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
+&emsp;&ensp;&nbsp; <b>Name :</b> &emsp;&ensp; 김현지(Kim Hyunji) <br/>
+&emsp;&ensp;&nbsp; <b>Email :</b> &emsp;&ensp;&nbsp; 6120hj@gmail.com <br/>
+&emsp;&ensp;&nbsp; <b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
 
 <br/>
 
 ## 🤓 Tech Skills
-### Back-End
-- `Java`
-- `Spring` `Spring boot`
-- `JPA` `MyBatis`
+### &emsp;&ensp; Back-End
+&emsp;&ensp;&nbsp; `Java` <br/>
+&emsp;&ensp;&nbsp; `Spring` `Spring boot` <br/>
+&emsp;&ensp;&nbsp; `JPA` `MyBatis`
 
-### Front-End
-- `React`
-- `JavaScript`
-- `HTML` `CSS`
+### &emsp;&ensp; Front-End
+&emsp;&ensp;&nbsp; `React` <br/>
+&emsp;&ensp;&nbsp; `JavaScript` <br/>
+&emsp;&ensp;&nbsp; `HTML` `CSS`
 
-### DBMS
-- `MySql`
-- `Oracle`
+### &emsp;&ensp; DBMS
+&emsp;&ensp;&nbsp; `MySql` <br/>
+&emsp;&ensp;&nbsp; `Oracle`
 
-### Tools & Collaborations
-- `IntelliJ IDEA` `VS Code` `Eclipse` `STS`
-- `Git` `GitHub`
-- `Slack` `Notion`
+### &emsp;&ensp; Tools & Collaborations
+&emsp;&ensp;&nbsp; `IntelliJ IDEA` `VS Code` `Eclipse` `STS` <br/>
+&emsp;&ensp;&nbsp; `Git` `GitHub` <br/>
+&emsp;&ensp;&nbsp; `Slack` `Notion`
 
 
 
