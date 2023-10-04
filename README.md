@@ -1,9 +1,11 @@
 # 🥕 Hyunji
 
+<img width="40%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true&theme=swift" />
+
 ### 🔥 Growth oriented Developer
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Name :</b> 김현지(Kim Hyunji) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Email :</b> 6120hj@gmail.com <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
+<b>Name :</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 김현지(Kim Hyunji) <br/>
+<b>Email :</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6120hj@gmail.com <br/>
+<b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
 
 <br/>
 
