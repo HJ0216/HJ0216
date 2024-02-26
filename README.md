@@ -11,7 +11,7 @@
 
 ## 🤓 Tech Skills
 ### &emsp;&ensp; Back-End
-&emsp;&ensp;&nbsp; `Java` <br/>
+&emsp;&ensp;&nbsp; `C#` `Java` <br/>
 &emsp;&ensp;&nbsp; `Spring` `Spring boot` <br/>
 &emsp;&ensp;&nbsp; `JPA` `MyBatis`
 
@@ -25,7 +25,8 @@
 &emsp;&ensp;&nbsp; `Oracle`
 
 ### &emsp;&ensp; Tools & Collaborations
-&emsp;&ensp;&nbsp; `IntelliJ IDEA` `VS Code` `Eclipse` `STS` <br/>
+&emsp;&ensp;&nbsp; `Visual Studio` `VS Code` <br/>
+&emsp;&ensp;&nbsp; `IntelliJ IDEA` `Eclipse` `STS` <br/>
 &emsp;&ensp;&nbsp; `Git` `GitHub` <br/>
 &emsp;&ensp;&nbsp; `Slack` `Notion`
 
