@@ -11,22 +11,25 @@
 
 ## 🤓 Tech Skills
 ### &emsp;&ensp; Back-End
-&emsp;&ensp;&nbsp; `C#` `Java` <br/>
-&emsp;&ensp;&nbsp; `Spring` `Spring boot` <br/>
-&emsp;&ensp;&nbsp; `JPA` `MyBatis`
+&emsp;&ensp;&nbsp; `Java` `Spring boot` `Spring` <br/>
+&emsp;&ensp;&nbsp; `JPA` `MyBatis` <br/>
+&emsp;&ensp;&nbsp; `C#`
 
 ### &emsp;&ensp; Front-End
-&emsp;&ensp;&nbsp; `React` <br/>
-&emsp;&ensp;&nbsp; `JavaScript` <br/>
-&emsp;&ensp;&nbsp; `HTML` `CSS`
+&emsp;&ensp;&nbsp; `React` `HTML` `CSS` <br/>
+&emsp;&ensp;&nbsp; `Xaml`
 
 ### &emsp;&ensp; DBMS
-&emsp;&ensp;&nbsp; `MySql` <br/>
-&emsp;&ensp;&nbsp; `Oracle`
+&emsp;&ensp;&nbsp; `MySql` `Oracle` <br/>
+&emsp;&ensp;&nbsp; `Redis`
+
+### &emsp;&ensp; Deploy
+&emsp;&ensp;&nbsp; `Netlify`
 
 ### &emsp;&ensp; Tools & Collaborations
-&emsp;&ensp;&nbsp; `Visual Studio` `VS Code` <br/>
 &emsp;&ensp;&nbsp; `IntelliJ IDEA` `Eclipse` `STS` <br/>
+&emsp;&ensp;&nbsp; `Visual Studio` <br/>
+&emsp;&ensp;&nbsp; `Visual Studio Code` <br/>
 &emsp;&ensp;&nbsp; `Git` `GitHub` <br/>
 &emsp;&ensp;&nbsp; `Slack` `Notion`
 
