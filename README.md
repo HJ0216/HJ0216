@@ -2,7 +2,7 @@
 
 <img width="40%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true&theme=swift" />
 
-### 🔥 Growth oriented Developer
+## 🔥 Growth oriented Developer
 &emsp;&ensp;&nbsp; <b>Name :</b> &emsp;&ensp; 김현지(Kim Hyunji) <br/>
 &emsp;&ensp;&nbsp; <b>Email :</b> &emsp;&ensp;&nbsp; 6120hj@gmail.com <br/>
 &emsp;&ensp;&nbsp; <b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
@@ -10,28 +10,25 @@
 <br/>
 
 ## 🤓 Tech Skills
-### &emsp;&ensp; Back-End
-&emsp;&ensp;&nbsp; `Java` `C#`
+### &emsp;&ensp; Back-End                  &emsp;&emsp;&ensp; DBMS
+&emsp;&ensp;&nbsp; `Java` `C#`             &emsp;&emsp;&emsp;&ensp;&ensp; `MySql` `Redis` `MSSQL`
 
 ### &emsp;&ensp; Front-End
 &emsp;&ensp;&nbsp; `React` `WPF`
 
-### &emsp;&ensp; DBMS
-&emsp;&ensp;&nbsp; `MySql` `Redis` `MSSQL` 
-
-### &emsp;&ensp; Cloud
-&emsp;&ensp;&nbsp; `AWS`
-
-### &emsp;&ensp; Deploy
-&emsp;&ensp;&nbsp; `Netlify`
+### &emsp;&ensp; Cloud                     &emsp;&emsp;&emsp;&emsp; Deploy
+&emsp;&ensp;&nbsp; `AWS`                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; `Netlify`
 
 ### &emsp;&ensp; Tools & Collaborations
-&emsp;&ensp;&nbsp; `IntelliJ IDEA` <br/>
+&emsp;&ensp;&nbsp; `IntelliJ IDEA` `Visual Studio` <br/>
 &emsp;&ensp;&nbsp; `Visual Studio Code` <br/>
-&emsp;&ensp;&nbsp; `Visual Studio` <br/>
 &emsp;&ensp;&nbsp; `Git` `GitHub` <br/>
 
+<br/>
 
+## 🎡 Mini Projects
+[Coffee WorldCup](https://hj0216.netlify.app/)  
+A coffee brand tournament game site for coffee gifting
 
 <!--
 ~ 231002
