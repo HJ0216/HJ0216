@@ -2,7 +2,7 @@
 
 <img width="40%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true&theme=swift" />
 
-## 🔥 Growth oriented Developer
+### 🔥 Growth oriented Developer
 &emsp;&ensp;&nbsp; <b>Name :</b> &emsp;&ensp; 김현지(Kim Hyunji) <br/>
 &emsp;&ensp;&nbsp; <b>Email :</b> &emsp;&ensp;&nbsp; 6120hj@gmail.com <br/>
 &emsp;&ensp;&nbsp; <b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
@@ -27,7 +27,7 @@
 <br/>
 
 ## 🎡 Mini Projects
-[Coffee WorldCup](https://hj0216.netlify.app/)  
+[🏆Coffee WorldCup](https://hj0216.netlify.app/)  
 A coffee brand tournament game site for coffee gifting
 
 <!--
