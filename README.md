@@ -1,20 +1,20 @@
 # 🥕 Hyunji
 
-<img width="40%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true&theme=swift" />
+<!--<img width="40%" align="right" alt="github status" src="https://github-readme-stats.vercel.app/api?username=hj0216&show_icons=true&hide_border=true&theme=swift" />-->
 
 ### 🔥 Growth oriented Developer
 &emsp;&ensp;&nbsp; <b>Name :</b> &emsp;&ensp; 김현지(Kim Hyunji) <br/>
 &emsp;&ensp;&nbsp; <b>Email :</b> &emsp;&ensp;&nbsp; 6120hj@gmail.com <br/>
-&emsp;&ensp;&nbsp; <b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>
+<!--&emsp;&ensp;&nbsp; <b>Tech Blog :</b> [이모저모 개발 블로그](https://hj0216.tistory.com/) <br/>-->
 
 <br/>
 
 ## 🤓 Tech Skills
 ### &emsp;&ensp; Back-End                  &emsp;&emsp;&ensp; DBMS
-&emsp;&ensp;&nbsp; `Java` `C#`             &emsp;&emsp;&emsp;&ensp;&ensp; `MySql` `Redis` `MSSQL`
+&emsp;&ensp;&nbsp; `Java` `C#`             &emsp;&emsp;&emsp;&ensp;&ensp; `MySql` `MSSQL` `Redis`
 
 ### &emsp;&ensp; Front-End
-&emsp;&ensp;&nbsp; `React` `WPF`
+&emsp;&ensp;&nbsp; `Thymeleaf` `WPF`
 
 ### &emsp;&ensp; Cloud                     &emsp;&emsp;&emsp;&emsp; Deploy
 &emsp;&ensp;&nbsp; `AWS`                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; `Netlify`
