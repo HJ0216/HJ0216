@@ -14,7 +14,7 @@
 &emsp;&ensp;&nbsp; `Java` `C#`             &emsp;&emsp;&emsp;&ensp;&ensp; `MySql` `MSSQL` `Redis`
 
 ### &emsp;&ensp; Front-End
-&emsp;&ensp;&nbsp; `Thymeleaf` `WPF`
+&emsp;&ensp;&nbsp; `Thymeleaf` `WPF` `JavaScript`
 
 ### &emsp;&ensp; Cloud                     &emsp;&emsp;&emsp;&emsp; Deploy
 &emsp;&ensp;&nbsp; `AWS`                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; `Netlify`
