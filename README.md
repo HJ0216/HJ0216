@@ -27,6 +27,8 @@
 <br/>
 
 ## 🎡 Mini Projects
+[🔮Lucky Log](https://lucky-log.duckdns.org/)  
+Record your saju. Discover what’s real.  
 [🏆Coffee WorldCup](https://hj0216.netlify.app/)  
 A coffee brand tournament game site for coffee gifting
 
