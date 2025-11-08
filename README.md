@@ -16,8 +16,8 @@
 ### &emsp;&ensp; Front-End
 &emsp;&ensp;&nbsp; `Thymeleaf` `WPF` `JavaScript`
 
-### &emsp;&ensp; Cloud                     &emsp;&emsp;&emsp;&emsp; Deploy
-&emsp;&ensp;&nbsp; `AWS`                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; `Netlify`
+### &emsp;&ensp; Cloud                     &emsp;&emsp;&emsp;&emsp; Deploy                                   &emsp;&emsp;&emsp;&emsp; CI/CD
+&emsp;&ensp;&nbsp; `AWS`                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; `Netlify`              &emsp;&emsp;&emsp;&emsp;&emsp; `GitHub Actions`
 
 ### &emsp;&ensp; Tools & Collaborations
 &emsp;&ensp;&nbsp; `IntelliJ IDEA` `Visual Studio` <br/>
